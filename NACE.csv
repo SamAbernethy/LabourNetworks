@@ -1,0 +1,515 @@
+id1, desc1, id5, desc5, x-coord, y-coord 
+ 1, "Agriculture, hunting and forestry", 111, "Growing of cereals and other crops n.e.c.", 271.7297, -119.7133
+ 1, "Agriculture, hunting and forestry", 112, "Growing of vegetables, horticultural specialities and nursery products", 208.5159, -168.8567
+ 1, "Agriculture, hunting and forestry", 113, "Growing of fruit, nuts, beverage and spice crops", 294.3041, -142.9379
+ 1, "Agriculture, hunting and forestry", 121, "Farming of cattle, dairy farming", 255.4449, -75.4153
+ 1, "Agriculture, hunting and forestry", 122, "Farming of sheep, goats, horses, asses, mules and hinnies", 173.6977, -110.3955
+ 1, "Agriculture, hunting and forestry", 123, "Farming of swine", 306.3831, -74.6513
+ 1, "Agriculture, hunting and forestry", 124, "Farming of poultry", 238.6105, -174.7485
+ 1, "Agriculture, hunting and forestry", 125, "Other farming of animals", 338.4314, -130.2468
+ 1, "Agriculture, hunting and forestry", 130, "Growing of crops combined with farming of animals (mixed farming)", 276.6582, -81.5271
+ 1, "Agriculture, hunting and forestry", 141, "Agricultural service activities; landscape gardening", 301.4500, -20.9917
+ 1, "Agriculture, hunting and forestry", 142, "Animal husbandry service activities, except veterinary activities", 254.2277, -57.6328
+ 1, "Agriculture, hunting and forestry", 150, "Hunting, trapping and game propagation, including related service activities", NaN, NaN
+ 1, "Agriculture, hunting and forestry", 201, "Forestry and logging", 336.3574, -55.7093
+ 1, "Agriculture, hunting and forestry", 202, "Forestry and logging related service activities", 325.6641, -74.8459
+ 2, "Fishing", 501, "Fishing", 46.3724, -104.7503
+ 2, "Fishing", 502, " Fish farming", 136.3639, -78.9530
+ 3, "Mining and quarrying", 1010, "Mining and agglomeration of hard coal", NaN, NaN
+ 3, "Mining and quarrying", 1020, "Mining and agglomeration of lignite", NaN, NaN
+ 3, "Mining and quarrying", 1030, "Extraction and agglomeration of peat", 251.2901, -19.5292
+ 3, "Mining and quarrying", 1110, "Extraction of crude petroleum and natural gas", NaN, NaN
+ 3, "Mining and quarrying", 1120, "Service activities incidental to oil and gas extraction, excluding surveying", NaN, NaN
+ 3, "Mining and quarrying", 1200, "Mining of uranium and thorium ores", NaN, NaN
+ 3, "Mining and quarrying", 1310, "Mining of iron ores", NaN, NaN
+ 3, "Mining and quarrying", 1320, "Mining of non-ferrous metal ores, except uranium and thorium ores", 160.2878, 164.6566
+ 3, "Mining and quarrying", 1411, "Quarrying of  ornamental and building stone", 318.3813, -7.6581
+ 3, "Mining and quarrying", 1412, "Quarrying of limestone, gypsum and chalk", 322.1117, 4.7645
+ 3, "Mining and quarrying", 1413, "Quarrying of slate", NaN, NaN
+ 3, "Mining and quarrying", 1421, "Operation of gravel and sand pits", 334.6058, 33.9399
+ 3, "Mining and quarrying", 1422, "Mining of clays and kaolin", NaN, NaN
+ 3, "Mining and quarrying", 1430, "Mining of chemical and fertilizer minerals", NaN, NaN
+ 3, "Mining and quarrying", 1440, "Production of salt", NaN, NaN
+ 3, "Mining and quarrying", 1450, "Other mining and quarrying n.e.c.", 360.3575, 1.3885
+ 4, "Manufacturing", 1511, "Production and preserving of meat", 255.1300, -105.9146
+ 4, "Manufacturing", 1512, "Production and preserving of poultrymeat", 233.7723, -157.8163
+ 4, "Manufacturing", 1513, "Production of meat and poultrymeat products", 187.8553, -183.8245
+ 4, "Manufacturing", 1520, "Processing and preserving of fish and fish products", 43.2678, -121.5029
+ 4, "Manufacturing", 1531, "Processing and preserving of potatoes", 88.6513, -210.6571
+ 4, "Manufacturing", 1532, "Manufacture of fruit and vegetable juice", 180.3988, -240.8557
+ 4, "Manufacturing", 1533, "Processing and preserving of fruit and vegetables n.e.c.", 108.4989, -187.9804
+ 4, "Manufacturing", 1541, "Manufacture of crude oils and fats", NaN, NaN
+ 4, "Manufacturing", 1542, "Manufacture of refined oils and fats", 272.8847, 136.1778
+ 4, "Manufacturing", 1543, "Manufacture of margarine and similar edible fats", NaN, NaN
+ 4, "Manufacturing", 1551, "Operation of dairies and cheese making", 151.9624, -121.3643
+ 4, "Manufacturing", 1552, "Manufacture of ice cream", -56.7319, -361.5158
+ 4, "Manufacturing", 1561, "Manufacture of grain mill products", 136.7718, -287.1182
+ 4, "Manufacturing", 1562, "Manufacture of starches and starch products", NaN, NaN
+ 4, "Manufacturing", 1571, "Manufacture of prepared feeds for farm animals", 249.5384, -120.5242
+ 4, "Manufacturing", 1572, "Manufacture of prepared pet foods", 238.2819, -199.1998
+ 4, "Manufacturing", 1581, "Manufacture of bread; manufacture of fresh pastry goods and cakes", 119.3307, -219.2556
+ 4, "Manufacturing", 1582, "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes", 127.9002, -161.5320
+ 4, "Manufacturing", 1583, "Manufacture of sugar", NaN, NaN
+ 4, "Manufacturing", 1584, "Manufacture of cocoa; chocolate and sugar confectionery", 79.7826, -252.4585
+ 4, "Manufacturing", 1585, "Manufacture of macaroni, noodles, couscous and similar farinaceous products", -152.7763, 118.5840
+ 4, "Manufacturing", 1586, "Processing of tea and coffee", 0.4889, -281.3251
+ 4, "Manufacturing", 1587, "Manufacture of condiments and seasonings", 135.6223, -232.7815
+ 4, "Manufacturing", 1588, "Manufacture of homogenized food preparations and dietetic food", 23.7806, 39.1209
+ 4, "Manufacturing", 1589, "Manufacture of other food products n.e.c.", 43.7132, -83.2871
+ 4, "Manufacturing", 1591, "Manufacture of distilled potable alcoholic beverages", -80.4932, -79.1165
+ 4, "Manufacturing", 1592, "Production of ethyl alcohol from fermented materials", -92.2215, 190.9154
+ 4, "Manufacturing", 1593, "Manufacture of wines", NaN, NaN
+ 4, "Manufacturing", 1594, "Manufacture of cider and other fruit wines", 49.4000, -55.4492
+ 4, "Manufacturing", 1595, "Manufacture of other non-distilled fermented beverages", -121.9575, -376.5145
+ 4, "Manufacturing", 1596, "Manufacture of beer", -93.8131, -62.2302
+ 4, "Manufacturing", 1597, "Manufacture of malt", 142.8011, 259.7835
+ 4, "Manufacturing", 1598, "Production of mineral waters and soft drinks", 107.7400, -151.9904
+ 4, "Manufacturing", 1600, "Manufacture of tobacco products", -421.9357, 82.9183
+ 4, "Manufacturing", 1711, "Preparation and spinning of cotton-type fibres", NaN, NaN
+ 4, "Manufacturing", 1712, "Preparation and spinning of woollen-type fibres", NaN, NaN
+ 4, "Manufacturing", 1713, "Preparation and spinning of worsted-type fibres", NaN, NaN
+ 4, "Manufacturing", 1714, "Preparation and spinning of flax-type fibres", NaN, NaN
+ 4, "Manufacturing", 1715, "Throwing and preparation of silk, including from noils, and throwing and texturing of synthetic or artificial filament yarns", NaN, NaN
+ 4, "Manufacturing", 1716, "Manufacture of sewing threads", -93.6046, 185.4947
+ 4, "Manufacturing", 1717, "Preparation and spinning of other textile fibres", NaN, NaN
+ 4, "Manufacturing", 1721, "Cotton-type weaving", NaN, NaN
+ 4, "Manufacturing", 1722, "Woollen-type weaving", -185.1871, -302.0095
+ 4, "Manufacturing", 1723, "Worsted-type weaving", NaN, NaN
+ 4, "Manufacturing", 1724, "Silk-type weaving", NaN, NaN
+ 4, "Manufacturing", 1725, "Other textile weaving", -400.9832, -74.3504
+ 4, "Manufacturing", 1730, "Finishing of textiles", -51.5234, -62.5184
+ 4, "Manufacturing", 1740, "Manufacture of made-up textile articles, except apparel", -62.7821, -136.8811
+ 4, "Manufacturing", 1751, "Manufacture of carpets and rugs", -41.0206, -50.6869
+ 4, "Manufacturing", 1752, "Manufacture of cordage, rope, twine and netting", -4.0769, -114.2809
+ 4, "Manufacturing", 1753, "Manufacture of non-wovens and articles made from non-wovens, except apparel", NaN, NaN
+ 4, "Manufacturing", 1754, "Manufacture of other textiles n.e.c.", -77.6408, -43.4604
+ 4, "Manufacturing", 1760, "Manufacture of knitted and crocheted fabrics", NaN, NaN
+ 4, "Manufacturing", 1771, "Manufacture of knitted and crocheted hosiery", NaN, NaN
+ 4, "Manufacturing", 1772, "Manufacture of knitted and crocheted pullovers, cardigans and similar articles", -123.7374, -293.0112
+ 4, "Manufacturing", 1810, "Manufacture of leather clothes", -307.8046, 182.8769
+ 4, "Manufacturing", 1821, "Manufacture of workwear", -180.5906, -304.3627
+ 4, "Manufacturing", 1822, "Manufacture of other outerwear", -167.8374, -289.6763
+ 4, "Manufacturing", 1823, "Manufacture of underwear", -176.0771, -307.4425
+ 4, "Manufacturing", 1824, "Manufacture of other wearing apparel and accessories n.e.c.", -183.3310, -315.5192
+ 4, "Manufacturing", 1830, "Dressing and dyeing of fur; manufacture of articles of fur", NaN, NaN
+ 4, "Manufacturing", 1910, "Tanning and dressing of leather", NaN, NaN
+ 4, "Manufacturing", 1920, "Manufacture of luggage, handbags and the like, saddlery and harness", 448.6435, -12.5956
+ 4, "Manufacturing", 1930, "Manufacture of footwear", NaN, NaN
+ 4, "Manufacturing", 2010, "Sawmilling and planing of wood; impregnation of wood", 327.2682, -24.1163
+ 4, "Manufacturing", 2020, "Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board, fibre board and other panels and boards", 229.3552, 156.4115
+ 4, "Manufacturing", 2030, "Manufacture of builders' carpentry and joinery", 310.5918, 89.3591
+ 4, "Manufacturing", 2040, "Manufacture of wooden containers", 308.4269, -55.3325
+ 4, "Manufacturing", 2051, "Manufacture of other products of wood", 255.7555, 32.3327
+ 4, "Manufacturing", 2052, "Manufacture of articles of cork, straw and plaiting materials", NaN, NaN
+ 4, "Manufacturing", 2111, "Manufacture of pulp", NaN, NaN
+ 4, "Manufacturing", 2112, "Manufacture of paper and paperboard", -151.0280, 26.6964
+ 4, "Manufacturing", 2121, "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard", -69.1950, -6.8811
+ 4, "Manufacturing", 2122, "Manufacture of household and sanitary goods and of toilet requisites", 45.7124, -221.0823
+ 4, "Manufacturing", 2123, "Manufacture of paper stationery", -151.6123, 20.5795
+ 4, "Manufacturing", 2124, "Manufacture of wallpaper", NaN, NaN
+ 4, "Manufacturing", 2125, "Manufacture of other articles of paper and paperboard n.e.c.", -49.7483, 72.9706
+ 4, "Manufacturing", 2211, "Publishing of books", -224.0471, -18.2808
+ 4, "Manufacturing", 2212, "Publishing of newspapers", -259.9987, 3.3343
+ 4, "Manufacturing", 2213, "Publishing of journals and periodicals", -275.3879, 2.4044
+ 4, "Manufacturing", 2214, "Publishing of sound recordings", NaN, NaN
+ 4, "Manufacturing", 2215, "Other publishing", -200.6361, 1.0404
+ 4, "Manufacturing", 2221, "Printing of newspapers", -216.4672, 18.0446
+ 4, "Manufacturing", 2222, "Printing n.e.c.", -118.7054, 21.3251
+ 4, "Manufacturing", 2223, "Bookbinding ", -92.6373, -107.6076
+ 4, "Manufacturing", 2224, "Pre-press activities", -212.7137, 1.4061
+ 4, "Manufacturing", 2225, "Ancillary activities related to printing", -210.7996, -5.1737
+ 4, "Manufacturing", 2231, "Reproduction of sound recording", -221.6320, 164.6599
+ 4, "Manufacturing", 2232, "Reproduction of video recording", NaN, NaN
+ 4, "Manufacturing", 2233, "Reproduction of computer media", -245.3953, 166.0384
+ 4, "Manufacturing", 2310, "Manufacture of coke oven products", NaN, NaN
+ 4, "Manufacturing", 2320, "Manufacture of refined petroleum products", -150.6051, 128.6486
+ 4, "Manufacturing", 2330, "Processing of nuclear fuel", -88.2809, 184.8638
+ 4, "Manufacturing", 2411, "Manufacture of industrial gases", 39.4828, 29.7280
+ 4, "Manufacturing", 2412, "Manufacture of dyes and pigments", NaN, NaN
+ 4, "Manufacturing", 2413, "Manufacture of other inorganic basic chemicals", 110.5373, 199.7485
+ 4, "Manufacturing", 2414, "Manufacture of other organic basic chemicals", -74.0481, 99.7022
+ 4, "Manufacturing", 2415, "Manufacture of fertilizers and nitrogen compounds", 229.5738, -141.5340
+ 4, "Manufacturing", 2416, "Manufacture of plastics in primary forms", -9.4501, 241.8155
+ 4, "Manufacturing", 2417, "Manufacture of synthetic rubber in primary forms", NaN, NaN
+ 4, "Manufacturing", 2420, "Manufacture of pesticides and other agro-chemical products", -49.6736, 252.4849
+ 4, "Manufacturing", 2430, "Manufacture of paints, varnishes and similar coatings, printing ink and mastics", 18.8913, 79.9440
+ 4, "Manufacturing", 2441, "Manufacture of basic pharmaceutical products", -53.4688, 96.8712
+ 4, "Manufacturing", 2442, "Manufacture of pharmaceutical preparations", -62.9258, 132.9966
+ 4, "Manufacturing", 2451, "Manufacture of soap and detergents, cleaning and polishing preparations", -104.8012, 225.3816
+ 4, "Manufacturing", 2452, "Manufacture of perfumes and toilet preparations", -112.4496, 206.7142
+ 4, "Manufacturing", 2461, "Manufacture of explosives", 147.9498, 256.9602
+ 4, "Manufacturing", 2462, "Manufacture of glues and gelatines", 83.5262, -54.2556
+ 4, "Manufacturing", 2463, "Manufacture of essential oils", -148.3925, 122.9004
+ 4, "Manufacturing", 2464, "Manufacture of photographic chemical material", NaN, NaN
+ 4, "Manufacturing", 2465, "Manufacture of prepared unrecorded media", -25.2933, -77.0302
+ 4, "Manufacturing", 2466, "Manufacture of other chemical products n.e.c.", -75.4308, 164.5358
+ 4, "Manufacturing", 2470, "Manufacture of man-made fibres", 152.8141, 33.8669
+ 4, "Manufacturing", 2511, "Manufacture of rubber tyres and tubes", NaN, NaN
+ 4, "Manufacturing", 2512, "Retreading and rebuilding of rubber tyres", NaN, NaN
+ 4, "Manufacturing", 2513, "Manufacture of other rubber products", 83.4286, 176.4319
+ 4, "Manufacturing", 2521, "Manufacture of plastic plates, sheets, tubes and profiles", 30.4828, 203.5925
+ 4, "Manufacturing", 2522, "Manufacture of plastic packing goods", 22.0556, 116.5081
+ 4, "Manufacturing", 2523, "Manufacture of builders' ware of plastic", 195.6937, 162.7728
+ 4, "Manufacturing", 2524, "Manufacture of other plastic products", 53.4494, 212.5192
+ 4, "Manufacturing", 2611, "Manufacture of flat glass", 393.0480, 150.0931
+ 4, "Manufacturing", 2612, "Shaping and processing of flat glass", 263.5085, 102.3402
+ 4, "Manufacturing", 2613, "Manufacture of hollow glass", 175.9153, -243.6450
+ 4, "Manufacturing", 2614, "Manufacture of glass fibres", -311.6433, 178.9235
+ 4, "Manufacturing", 2615, "Manufacture and processing of other glass, including technical glassware", 295.7673, 184.2463
+ 4, "Manufacturing", 2621, "Manufacture of ceramic household and ornamental articles", -101.6716, -156.6401
+ 4, "Manufacturing", 2622, "Manufacture of ceramic sanitary fixtures", NaN, NaN
+ 4, "Manufacturing", 2623, "Manufacture of ceramic insulators and insulating fittings", NaN, NaN
+ 4, "Manufacturing", 2624, "Manufacture of other technical ceramic products", NaN, NaN
+ 4, "Manufacturing", 2625, "Manufacture of other ceramic products", NaN, NaN
+ 4, "Manufacturing", 2626, "Manufacture of refractory ceramic products", NaN, NaN
+ 4, "Manufacturing", 2630, "Manufacture of ceramic tiles and flags", 383.2648, 58.6133
+ 4, "Manufacturing", 2640, "Manufacture of bricks, tiles and construction products, in baked clay", 393.8148, 74.9082
+ 4, "Manufacturing", 2651, "Manufacture of cement", 120.6473, 152.5475
+ 4, "Manufacturing", 2652, "Manufacture of lime", NaN, NaN
+ 4, "Manufacturing", 2653, "Manufacture of plaster", NaN, NaN
+ 4, "Manufacturing", 2661, "Manufacture of concrete products for construction purposes", 335.5034, 55.3560
+ 4, "Manufacturing", 2662, "Manufacture of plaster products for construction purposes", 215.8281, 154.5188
+ 4, "Manufacturing", 2663, "Manufacture of ready-mixed concrete", 337.8818, -3.2200
+ 4, "Manufacturing", 2664, "Manufacture of mortars", -143.2905, 49.5872
+ 4, "Manufacturing", 2665, "Manufacture of fibre cement", 233.0046, -88.7103
+ 4, "Manufacturing", 2666, "Manufacture of other articles of concrete, plaster and cement", 352.0987, -1.6282
+ 4, "Manufacturing", 2670, "Cutting, shaping and finishing of ornamental and building stone", 294.7034, 49.2476
+ 4, "Manufacturing", 2681, "Production of abrasive products", 7.5339, 186.8724
+ 4, "Manufacturing", 2682, "Manufacture of other non-metallic mineral products n.e.c.", 382.6092, -2.3055
+ 4, "Manufacturing", 2710, "Manufacture of basic iron and steel and of ferro-alloys ", 260.4510, 229.0578
+ 4, "Manufacturing", 2721, "Manufacture of cast iron tubes", 371.8605, 166.0072
+ 4, "Manufacturing", 2722, "Manufacture of steel tubes", 246.3336, 244.5790
+ 4, "Manufacturing", 2731, "Cold drawing", NaN, NaN
+ 4, "Manufacturing", 2732, "Cold rolling of narrow strip", NaN, NaN
+ 4, "Manufacturing", 2733, "Cold forming or folding", NaN, NaN
+ 4, "Manufacturing", 2734, "Wire drawing", NaN, NaN
+ 4, "Manufacturing", 2741, "Precious metals production", NaN, NaN
+ 4, "Manufacturing", 2742, "Aluminium production", 116.0232, 313.3673
+ 4, "Manufacturing", 2743, "Lead, zinc and tin production", NaN, NaN
+ 4, "Manufacturing", 2744, "Copper production", 262.9503, -154.3672
+ 4, "Manufacturing", 2745, "Other non-ferrous metal production", NaN, NaN
+ 4, "Manufacturing", 2751, "Casting of iron", 247.3525, 280.4094
+ 4, "Manufacturing", 2752, "Casting of steel", 392.9889, 80.9918
+ 4, "Manufacturing", 2753, "Casting of light metals", 197.5484, 292.4758
+ 4, "Manufacturing", 2754, "Casting of other non-ferrous metals", NaN, NaN
+ 4, "Manufacturing", 2811, "Manufacture of metal structures and parts of structures", 216.2871, 208.2143
+ 4, "Manufacturing", 2812, "Manufacture of builders' carpentry and joinery of metal", 251.1592, 208.5408
+ 4, "Manufacturing", 2821, "Manufacture of tanks, reservoirs and containers of metal", 196.9740, 231.8547
+ 4, "Manufacturing", 2822, "Manufacture of central heating radiators and boilers", 202.8727, 123.1492
+ 4, "Manufacturing", 2830, "Manufacture of steam generators, except central heating hot water boilers", NaN, NaN
+ 4, "Manufacturing", 2840, "Forging, pressing, stamping and roll forming of metal; powder metallurgy", 241.5310, 271.2564
+ 4, "Manufacturing", 2851, "Treatment and coating of metals", 176.7620, 183.8976
+ 4, "Manufacturing", 2852, "General mechanical engineering", 179.7643, 219.3824
+ 4, "Manufacturing", 2861, "Manufacture of cutlery", NaN, NaN
+ 4, "Manufacturing", 2862, "Manufacture of tools", 92.9571, 266.5324
+ 4, "Manufacturing", 2863, "Manufacture of locks and hinges", 277.7885, 212.4854
+ 4, "Manufacturing", 2871, "Manufacture of steel drums and similar containers", NaN, NaN
+ 4, "Manufacturing", 2872, "Manufacture of light metal packaging", -44.5359, 256.1970
+ 4, "Manufacturing", 2873, "Manufacture of wire products", 280.4427, 42.7846
+ 4, "Manufacturing", 2874, "Manufacture of fasteners, screw machine products, chain and springs", 18.4887, 268.7446
+ 4, "Manufacturing", 2875, "Manufacture of other fabricated metal products n.e.c.", 162.0055, 221.8735
+ 4, "Manufacturing", 2911, "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines", 259.6078, 255.3575
+ 4, "Manufacturing", 2912, "Manufacture of pumps and compressors", 81.1723, 256.2615
+ 4, "Manufacturing", 2913, "Manufacture of taps and valves", 51.5517, 250.2092
+ 4, "Manufacturing", 2914, "Manufacture of bearings, gears, gearing and driving elements", 135.7458, 308.9029
+ 4, "Manufacturing", 2921, "Manufacture of furnaces and furnace burners", 102.0749, 148.3782
+ 4, "Manufacturing", 2922, "Manufacture of lifting and handling equipment", 218.8469, 180.2721
+ 4, "Manufacturing", 2923, "Manufacture of non-domestic cooling and ventilation equipment", 248.9571, 226.7530
+ 4, "Manufacturing", 2924, "Manufacture of other general purpose machinery n.e.c.", 114.2452, 241.9744
+ 4, "Manufacturing", 2931, "Manufacture of agricultural tractors", NaN, NaN
+ 4, "Manufacturing", 2932, "Manufacture of other agricultural and forestry machinery", 250.4634, 102.7707
+ 4, "Manufacturing", 2941, "Manufacture of portable hand held power tools", 144.5185, 134.4767
+ 4, "Manufacturing", 2942, "Manufacture of other metalworking machine tools", 95.8939, 217.6895
+ 4, "Manufacturing", 2943, "Manufacture of other machine tools n.e.c.", 78.8025, 284.9660
+ 4, "Manufacturing", 2951, "Manufacture of machinery for metallurgy", NaN, NaN
+ 4, "Manufacturing", 2952, "Manufacture of machinery for mining, quarrying and construction", 248.3090, 139.2728
+ 4, "Manufacturing", 2953, "Manufacture of machinery for food, beverage and tobacco processing", 193.3497, 252.8294
+ 4, "Manufacturing", 2954, "Manufacture of machinery for textile, apparel and leather production", NaN, NaN
+ 4, "Manufacturing", 2955, "Manufacture of machinery for paper and paperboard production", NaN, NaN
+ 4, "Manufacturing", 2956, "Manufacture of other special purpose machinery n.e.c.", 82.4189, 236.9274
+ 4, "Manufacturing", 2960, "Manufacture of weapons and ammunition", NaN, NaN
+ 4, "Manufacturing", 2971, "Manufacture of electric domestic appliances", 129.0193, 282.3839
+ 4, "Manufacturing", 2972, "Manufacture of non-electric domestic appliances", -113.5589, 194.6996
+ 4, "Manufacturing", 3001, "Manufacture of office machinery", -277.8953, 121.2595
+ 4, "Manufacturing", 3002, "Manufacture of computers and other information processing equipment", -186.6680, 172.0594
+ 4, "Manufacturing", 3110, "Manufacture of electric motors, generators and transformers", 0.9570, 126.0394
+ 4, "Manufacturing", 3120, "Manufacture of electricity distribution and control apparatus", 43.5753, 235.3705
+ 4, "Manufacturing", 3130, "Manufacture of insulated wire and cable", -44.1973, 250.5471
+ 4, "Manufacturing", 3140, "Manufacture of accumulators, primary cells and primary batteries", 142.1614, 254.3022
+ 4, "Manufacturing", 3150, "Manufacture of lighting equipment and electric lamps", 79.0270, 216.7959
+ 4, "Manufacturing", 3161, "Manufacture of electrical equipment for engines and vehicles n.e.c.", 53.4284, 144.9757
+ 4, "Manufacturing", 3162, "Manufacture of other electrical equipment n.e.c.", 14.5255, 251.0146
+ 4, "Manufacturing", 3210, "Manufacture of electronic valves and tubes and other electronic components", -69.6238, 207.5217
+ 4, "Manufacturing", 3220, "Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy", -229.7380, 189.4818
+ 4, "Manufacturing", 3230, "Manufacture of television and radio receivers, sound or video recording or reproducing apparatus and associated goods", -29.6301, 126.7552
+ 4, "Manufacturing", 3310, "Manufacture of medical and surgical equipment and orthopaedic appliances", -21.4231, 188.1066
+ 4, "Manufacturing", 3320, "Manufacture of instruments and appliances for measuring, checking, testing, navigating and other purposes, except industrial process control equipment", -13.6233, 251.5447
+ 4, "Manufacturing", 3330, "Manufacture of industrial process control equipment", 140.7524, 233.8809
+ 4, "Manufacturing", 3340, "Manufacture of optical instruments and photographic equipment", -43.6132, 219.6295
+ 4, "Manufacturing", 3350, "Manufacture of watches and clocks", NaN, NaN
+ 4, "Manufacturing", 3410, "Manufacture of motor vehicles", 132.1024, -15.1570
+ 4, "Manufacturing", 3420, "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers", 220.7415, 137.1461
+ 4, "Manufacturing", 3430, "Manufacture of parts and accessories for motor vehicles and their engines", 76.1938, 161.5193
+ 4, "Manufacturing", 3511, "Building and repairing of ships", 281.0951, 222.5829
+ 4, "Manufacturing", 3512, "Building and repairing of pleasure and sporting boats", 80.2019, 54.0799
+ 4, "Manufacturing", 3520, "Manufacture of railway and tramway locomotives and rolling stock", NaN, NaN
+ 4, "Manufacturing", 3530, "Manufacture of aircraft and spacecraft", -48.5486, 200.8370
+ 4, "Manufacturing", 3541, "Manufacture of motorcycles", NaN, NaN
+ 4, "Manufacturing", 3542, "Manufacture of bicycles", NaN, NaN
+ 4, "Manufacturing", 3543, "Manufacture of invalid carriages", NaN, NaN
+ 4, "Manufacturing", 3550, "Manufacture of other transport equipment n.e.c.", NaN, NaN
+ 4, "Manufacturing", 3611, "Manufacture of chairs and seats", 96.9054, -35.6428
+ 4, "Manufacturing", 3612, "Manufacture of other office and shop furniture", 197.4872, 109.2936
+ 4, "Manufacturing", 3613, "Manufacture of other kitchen furniture", 207.5691, 84.1118
+ 4, "Manufacturing", 3614, "Manufacture of other furniture", 202.5090, 39.2087
+ 4, "Manufacturing", 3615, "Manufacture of mattresses", 218.0417, -14.4458
+ 4, "Manufacturing", 3621, "Striking of coins ", NaN, NaN
+ 4, "Manufacturing", 3622, "Manufacture of jewellery and related articles n.e.c.", -69.2174, 40.1496
+ 4, "Manufacturing", 3630, "Manufacture of musical instruments", NaN, NaN
+ 4, "Manufacturing", 3640, "Manufacture of sports goods", -468.0902, 122.3996
+ 4, "Manufacturing", 3650, "Manufacture of games and toys", 0.8464, 221.4811
+ 4, "Manufacturing", 3661, "Manufacture of imitation jewellery", -95.4671, -156.9732
+ 4, "Manufacturing", 3662, "Manufacture of brooms and brushes", -154.7746, 124.2438
+ 4, "Manufacturing", 3663, "Other manufacturing n.e.c.", 123.3945, 206.2906
+ 4, "Manufacturing", 3710, "Recycling of metal waste and scrap", 220.2654, 6.0230
+ 4, "Manufacturing", 3720, "Recycling of non-metal waste and scrap", 210.1984, -89.6963
+ 5, "Electricity, gas and water supply", 4011, "Production of electricity", -21.6916, 161.4852
+ 5, "Electricity, gas and water supply", 4012, "Transmission of electricity", NaN, NaN
+ 5, "Electricity, gas and water supply", 4013, "Distribution and trade of electricity", -155.1540, 99.9839
+ 5, "Electricity, gas and water supply", 4021, "Manufacture of gas", NaN, NaN
+ 5, "Electricity, gas and water supply", 4022, "Distribution and trade of gaseous fuels through mains", -157.4297, 74.0126
+ 5, "Electricity, gas and water supply", 4030, "Steam and hot water supply", NaN, NaN
+ 5, "Electricity, gas and water supply", 4100, "Collection, purification and distribution of water", 59.3747, 238.9261
+ 6, "Construction", 4511, "Demolition and wrecking of buildings; earth moving", 307.4539, 10.2532
+ 6, "Construction", 4512, "Test drilling and boring", 372.5809, 118.4615
+ 6, "Construction", 4521, "General construction of buildings and civil engineering works", 308.3202, 61.1472
+ 6, "Construction", 4522, "Erection of roof covering and frames", 330.4329, 96.7920
+ 6, "Construction", 4523, "Construction of motorways, roads, airfields and sport facilities", 352.9740, 15.3064
+ 6, "Construction", 4524, "Construction of water projects", 279.5127, 64.3614
+ 6, "Construction", 4525, "Other construction work involving special trades", 305.9013, 121.1034
+ 6, "Construction", 4531, "Installation of electrical wiring and fittings", 136.1614, 178.9008
+ 6, "Construction", 4532, "Insulation work activities", 322.4040, 149.5486
+ 6, "Construction", 4533, "Plumbing", 242.1820, 173.2794
+ 6, "Construction", 4534, "Other building installation", 293.7252, 113.0286
+ 6, "Construction", 4541, "Plastering", 365.5355, 82.9771
+ 6, "Construction", 4542, "Joinery installation", 324.9998, 114.0914
+ 6, "Construction", 4543, "Floor and wall covering", 259.3668, 74.3484
+ 6, "Construction", 4544, "Painting and glazing", 296.2711, 149.1049
+ 6, "Construction", 4545, "Other building completion", 344.2513, 128.9882
+ 6, "Construction", 4550, "Renting of construction or demolition equipment with operator", 309.5750, 28.1635
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5010, "Sale of motor vehicles", 114.6268, -35.0546
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5020, "Maintenance and repair of motor vehicles", 148.0890, 18.6072
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5030, "Sale of motor vehicle parts and accessories", 132.7722, 46.9851
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5040, "Sale, maintenance and repair of motorcycles and related parts and accessories", 62.3047, -64.1448
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5050, "Retail sale of automotive fuel", 18.0754, -227.1738
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5111, "Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods", 165.8532, -92.3988
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5112, "Agents involved in the sale of fuels, ores, metals and industrial chemicals", 93.8651, -6.5315
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5113, "Agents involved in the sale of timber and building materials", 215.9933, 53.3600
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5114, "Agents involved in the sale of machinery, industrial equipment, ships and aircraft", 162.8165, 75.8770
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5115, "Agents involved in the sale of furniture, household goods, hardware and ironmongery", 133.2636, 58.0156
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5116, "Agents involved in the sale of textiles, clothing, footwear and leather goods", -156.6560, -267.9237
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5117, "Agents involved in the sale of food, beverages and tobacco", 87.9859, -221.6001
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5118, "Agents specializing in the sale of particular products or ranges of products n.e.c.", -31.8032, -39.9651
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5119, "Agents involved in the sale of a variety of goods", -198.5797, 51.8247
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5121, "Wholesale of grain, seeds and animal feeds", 207.9399, -136.2255
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5122, "Wholesale of flowers and plants", 127.3254, -202.9771
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5123, "Wholesale of live animals", 228.9548, -113.9991
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5124, "Wholesale of hides, skins and leather", NaN, NaN
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5125, "Wholesale of unmanufactured tobacco", NaN, NaN
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5131, "Wholesale of fruit and vegetables", 148.4983, -171.6729
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5132, "Wholesale of meat and meat products", 140.3854, -200.1463
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5133, "Wholesale of dairy produce, eggs and edible oils and fats", 125.2865, -174.8539
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5134, "Wholesale of alcoholic and other beverages", 18.9464, -166.5018
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5135, "Wholesale of tobacco products", -44.9338, -142.5914
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5136, "Wholesale of sugar and chocolate and sugar confectionery", 58.8870, -190.0501
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5137, "Wholesale of coffee, tea, cocoa and spices", -2.6041, -143.4682
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5138, "Wholesale of other food, including fish, crustaceans and molluscs", 81.9696, -176.6705
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5139, "Non-specialized wholesale of food, beverages and tobacco", 49.1275, -156.8918
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5141, "Wholesale of textiles", -117.4224, -161.5553
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5142, "Wholesale of clothing and footwear", -122.3079, -229.5161
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5143, "Wholesale of electrical household appliances and radio and television goods", -9.3567, 87.8727
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5144, "Wholesale of china and glassware, wallpaper and cleaning materials", -56.7686, 44.1642
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5145, "Wholesale of perfume and cosmetics", -116.5659, -129.5505
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5146, "Wholesale of pharmaceutical goods", -46.1223, -20.1688
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5147, "Wholesale of other household goods", -18.8163, -32.3334
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5151, "Wholesale of solid, liquid and gaseous fuels and related products", 139.1624, -70.6574
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5152, "Wholesale of metals and metal ores", 178.7342, 148.2697
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5153, "Wholesale of wood, construction materials and sanitary equipment", 239.4978, 85.4597
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5154, "Wholesale of hardware, plumbing and heating equipment and supplies", 145.3334, 102.4089
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5155, "Wholesale of chemical products", 79.0624, -28.0193
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5156, "Wholesale of other intermediate products", -47.8341, -0.4115
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5157, "Wholesale of waste and scrap", 191.5397, -20.2297
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5181, "Wholesale of machine tools", 49.6303, 116.3315
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5182, "Wholesale of mining, construction and civil engineering machinery", 180.0455, 84.4859
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5183, "Wholesale of machinery for the textile industry and of sewing and knitting machines", NaN, NaN
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5184, "Wholesale of computers, computer peripheral equipment and software", -228.9653, 150.4630
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5185, "Wholesale of other office machinery and equipment", -99.1265, 50.6708
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5186, "Wholesale of other electronic parts and equipment", -115.8357, 166.9408
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5187, "Wholesale of other machinery for use in industry, trade and navigation", 91.0308, 129.3309
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5188, "Wholesale of agricultural machinery and accessories and implements, including tractors", 206.2648, 16.2108
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5190, "Other wholesale", -33.0532, 33.2689
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5211, "Retail sale in non-specialized stores with food, beverages or tobacco predominating", -34.2452, -267.4946
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5212, "Other retail sale in non-specialized stores", -109.6610, -205.9380
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5221, "Retail sale of fruit and vegetables", 149.7699, -228.9872
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5222, "Retail sale of meat and meat products", 89.3126, -268.8526
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5223, "Retail sale of fish, crustaceans and molluscs", 32.0856, -257.3127
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5224, "Retail sale of bread, cakes, flour confectionery and sugar confectionery", 17.2576, -283.8149
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5225, "Retail sale of alcoholic and other beverages", -92.4321, -281.0897
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5226, "Retail sale of tobacco products", -57.6147, -288.5068
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5227, "Other retail sale of food, beverages and tobacco in specialized stores", -24.0595, -258.1804
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5231, "Dispensing chemists", -135.8003, -172.9387
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5232, "Retail sale of medical and orthopaedic goods", -68.3833, 78.8918
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5233, "Retail sale of cosmetic and toilet articles", -102.1306, -191.3253
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5241, "Retail sale of textiles", -84.0578, -179.1730
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5242, "Retail sale of clothing", -148.2301, -249.8594
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5243, "Retail sale of footwear and leather goods", -131.3173, -225.1244
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5244, "Retail sale of furniture, lighting equipment and household articles n.e.c.", -9.7111, -85.8005
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5245, "Retail sale of electrical household appliances and radio and television goods", -65.1050, -75.3666
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5246, "Retail sale of hardware, paints and glass", 101.4479, 26.0182
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5247, "Retail sale of books, newspapers and stationery", -125.4744, -190.0222
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5248, "Other retail sale in specialized stores", -80.3378, -120.8228
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5250, "Retail sale of second-hand goods in stores", -218.2521, -124.9078
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5261, "Retail sale via mail order houses", -243.6753, 147.5899
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5262, "Retail sale via stalls and markets", -102.7637, -297.9008
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5263, "Other non-store retail sale", 16.6581, -148.1617
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5271, "Repair of boots, shoes and other articles of leather", -113.9134, -291.4765
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5272, "Repair of electrical household goods", 55.4919, 92.9469
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5273, "Repair of watches, clocks and jewellery", NaN, NaN
+ 7, "Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods", 5274, "Repair n.e.c.", -141.5594, -152.2667
+ 8, "Hotels and restaurants", 5510, "Hotels", -77.0857, -236.0185
+ 8, "Hotels and restaurants", 5521, "Youth hostels and mountain refuges", -84.4695, -189.9210
+ 8, "Hotels and restaurants", 5522, "Camping sites, including caravan sites", -23.6854, -237.1529
+ 8, "Hotels and restaurants", 5523, "Other provision of lodgings n.e.c.", -71.3710, -248.5371
+ 8, "Hotels and restaurants", 5530, "Restaurants", -49.3404, -301.2651
+ 8, "Hotels and restaurants", 5540, "Bars", -92.5640, -266.2215
+ 8, "Hotels and restaurants", 5551, "Canteens", -65.9503, -325.7518
+ 8, "Hotels and restaurants", 5552, "Catering", -105.9802, -323.1083
+ 9, "Transport, storage and communication", 6010, "Transport via railways", -49.8918, 54.8408
+ 9, "Transport, storage and communication", 6021, "Other scheduled passenger land transport", 35.2957, -24.7849
+ 9, "Transport, storage and communication", 6022, "Taxi operation", -6.9232, -53.9565
+ 9, "Transport, storage and communication", 6023, "Other land passenger transport", 58.9934, -25.2610
+ 9, "Transport, storage and communication", 6024, "Freight transport by road", 210.2648, -47.0134
+ 9, "Transport, storage and communication", 6030, "Transport via pipelines", NaN, NaN
+ 9, "Transport, storage and communication", 6110, "Sea and coastal water transport", 42.3092, 15.3997
+ 9, "Transport, storage and communication", 6120, "Inland water transport", -322.2964, -175.9773
+ 9, "Transport, storage and communication", 6210, "Scheduled air transport", -106.3037, 95.6762
+ 9, "Transport, storage and communication", 6220, "Non-scheduled air transport", -127.7366, 106.6252
+ 9, "Transport, storage and communication", 6230, "Space transport", NaN, NaN
+ 9, "Transport, storage and communication", 6311, "Cargo handling", -1.4042, 14.4516
+ 9, "Transport, storage and communication", 6312, "Storage and warehousing", 22.6345, -69.7845
+ 9, "Transport, storage and communication", 6321, "Other supporting land transport activities", -111.9451, 38.5221
+ 9, "Transport, storage and communication", 6322, "Other supporting water transport activities", 90.7448, 34.9401
+ 9, "Transport, storage and communication", 6323, "Other supporting air transport activities", -82.7629, 66.1769
+ 9, "Transport, storage and communication", 6330, "Activities of travel agencies and tour operators; tourist assistance activities n.e.c.", -180.0948, 46.3100
+ 9, "Transport, storage and communication", 6340, "Activities of other transport agencies", 15.0456, -26.2006
+ 9, "Transport, storage and communication", 6411, "National post activities", -80.2207, -62.7577
+ 9, "Transport, storage and communication", 6412, "Courier activities other than national post activities", 68.4893, -40.0474
+ 9, "Transport, storage and communication", 6420, "Telecommunications", -229.5574, 61.9423
+ 10, "Financial intermediation", 6511, "Central banking", -410.8415, 63.1146
+ 10, "Financial intermediation", 6512, "Other monetary intermediation", -372.9327, 105.3608
+ 10, "Financial intermediation", 6521, "Financial leasing", -350.5846, 131.9423
+ 10, "Financial intermediation", 6522, "Other credit granting", -393.1020, 119.1913
+ 10, "Financial intermediation", 6523, "Other financial intermediation n.e.c.", -398.8477, 129.3828
+ 10, "Financial intermediation", 6601, "Life insurance", -414.8661, 107.0901
+ 10, "Financial intermediation", 6602, "Pension funding", -361.3488, 151.6446
+ 10, "Financial intermediation", 6603, "Non-life insurance", -355.9890, 111.8092
+ 10, "Financial intermediation", 6711, "Administration of financial markets", -430.2903, 109.5244
+ 10, "Financial intermediation", 6712, "Security broking and fund management", -419.8266, 129.6313
+ 10, "Financial intermediation", 6713, "Activities auxiliary to financial intermediation n.e.c.", -396.3873, 105.6210
+ 10, "Financial intermediation", 6720, "Activities auxiliary to insurance and pension funding", -382.6055, 81.7357
+ 11, "Real estate, renting and business activities", 7011, "Development and selling of real estate", 161.3857, -11.2635
+ 11, "Real estate, renting and business activities", 7012, "Buying and selling of own real estate", -294.7126, 8.4463
+ 11, "Real estate, renting and business activities", 7020, "Letting of own property", -150.7570, -133.3838
+ 11, "Real estate, renting and business activities", 7031, "Real estate agencies", -235.7105, 4.9559
+ 11, "Real estate, renting and business activities", 7032, "Management of real estate on a fee or contract basis", -77.7620, -22.1098
+ 11, "Real estate, renting and business activities", 7110, "Renting of automobiles", 48.4922, -6.6037
+ 11, "Real estate, renting and business activities", 7121, "Renting of other land transport equipment", 115.6233, -23.8661
+ 11, "Real estate, renting and business activities", 7122, "Renting of water transport equipment", NaN, NaN
+ 11, "Real estate, renting and business activities", 7123, "Renting of air transport equipment", -217.5272, 94.1070
+ 11, "Real estate, renting and business activities", 7131, "Renting of agricultural machinery and equipment", 345.6085, -19.4753
+ 11, "Real estate, renting and business activities", 7132, "Renting of construction and civil engineering machinery and equipment", 286.0956, 13.7848
+ 11, "Real estate, renting and business activities", 7133, "Renting of office machinery and equipment, including computers", -26.6873, 76.4128
+ 11, "Real estate, renting and business activities", 7134, "Renting of other machinery and equipment n.e.c.", 202.4710, 65.9985
+ 11, "Real estate, renting and business activities", 7140, "Renting of personal and household goods n.e.c.", -152.9667, -214.4777
+ 11, "Real estate, renting and business activities", 7210, "Hardware consultancy", -278.1365, 154.7522
+ 11, "Real estate, renting and business activities", 7221, "Publishing of software", -273.1069, 140.4022
+ 11, "Real estate, renting and business activities", 7222, "Other software consultancy and supply", -235.2465, 128.5808
+ 11, "Real estate, renting and business activities", 7230, "Data processing", -295.6820, 133.4275
+ 11, "Real estate, renting and business activities", 7240, "Database activities", -277.2264, 102.9244
+ 11, "Real estate, renting and business activities", 7250, "Maintenance and repair of office, accounting and computing machinery", -209.0762, 127.0861
+ 11, "Real estate, renting and business activities", 7260, "Other computer related activities", -290.6906, 89.2337
+ 11, "Real estate, renting and business activities", 7310, "Research and experimental development on natural sciences and engineering", -99.5021, 138.3945
+ 11, "Real estate, renting and business activities", 7320, "Research and experimental development on social sciences and humanities", -147.7895, 60.5153
+ 11, "Real estate, renting and business activities", 7411, "Legal activities", -354.5980, 28.9514
+ 11, "Real estate, renting and business activities", 7412, "Accounting, book-keeping and auditing activities; tax consultancy", -357.1730, 81.6793
+ 11, "Real estate, renting and business activities", 7413, "Market research and public opinion polling", -278.5692, 76.5457
+ 11, "Real estate, renting and business activities", 7414, "Business and management consultancy activities", -277.0992, 54.5241
+ 11, "Real estate, renting and business activities", 7415, "Management activities of holding companies", -83.5600, -56.5733
+ 11, "Real estate, renting and business activities", 7420, "Architectural and engineering activities and related technical consultancy", 18.3809, 137.8046
+ 11, "Real estate, renting and business activities", 7430, "Technical testing and analysis", -29.6723, 93.7882
+ 11, "Real estate, renting and business activities", 7440, "Advertising", -196.0887, -31.9721
+ 11, "Real estate, renting and business activities", 7450, "Labour recruitment and provision of personnel", -121.3988, 83.9816
+ 11, "Real estate, renting and business activities", 7460, "Investigation and security activities", -12.2950, 36.2831
+ 11, "Real estate, renting and business activities", 7470, "Industrial cleaning", -17.2618, -204.7879
+ 11, "Real estate, renting and business activities", 7481, "Photographic activities", -176.5945, -134.3188
+ 11, "Real estate, renting and business activities", 7482, "Packaging activities", 76.2983, -189.9519
+ 11, "Real estate, renting and business activities", 7485, "Secretarial and translation activities", -244.5809, 82.4559
+ 11, "Real estate, renting and business activities", 7486, "Call centre activities", -265.4205, 129.7988
+ 11, "Real estate, renting and business activities", 7487, "Other business activities n.e.c.", -250.7522, -22.1360
+ 12, "Public administration and defence; compulsory social security", 7511, "General (overall) public service activities", -343.0457, -57.0877
+ 12, "Public administration and defence; compulsory social security", 7512, "Regulation of the activities of agencies that provide health care, education, cultural services and other social services, excluding social security", -343.1995, -197.4887
+ 12, "Public administration and defence; compulsory social security", 7513, "Regulation of and contribution to more efficient operation of business", -126.6304, -89.6637
+ 12, "Public administration and defence; compulsory social security", 7514, "Supporting service activities for the government as a whole", -353.6347, -50.4975
+ 12, "Public administration and defence; compulsory social security", 7521, "Foreign affairs", -362.4037, -27.0855
+ 12, "Public administration and defence; compulsory social security", 7522, "Defence activities", -187.5308, 26.8116
+ 12, "Public administration and defence; compulsory social security", 7523, "Justice and judicial activities", -381.3033, -14.6123
+ 12, "Public administration and defence; compulsory social security", 7524, "Public security, law and order activities", NaN, NaN
+ 12, "Public administration and defence; compulsory social security", 7525, "Fire service activities", NaN, NaN
+ 12, "Public administration and defence; compulsory social security", 7530, "Compulsory social security activities", -362.1236, -57.6906
+ 13, "Education", 8010, "Primary education", -323.4887, -185.2233
+ 13, "Education", 8021, "General secondary education", -298.0200, -161.3397
+ 13, "Education", 8022, "Technical and vocational secondary education", -309.5628, -135.2752
+ 13, "Education", 8030, "Higher education", -265.2304, -39.4749
+ 13, "Education", 8041, "Driving school activities", -51.7309, -91.4982
+ 13, "Education", 8042, "Adult and other education n.e.c.", -328.9426, -116.5468
+ 14, "Health and social work", 8511, "Hospital activities", -316.2947, -198.1824
+ 14, "Health and social work", 8512, "Medical practice activities", -219.2298, -81.4958
+ 14, "Health and social work", 8513, "Dental practice activities", -164.5292, -114.2788
+ 14, "Health and social work", 8514, "Other human health activities", -289.1816, -180.3319
+ 14, "Health and social work", 8520, "Veterinary activities", -45.5982, -117.1234
+ 14, "Health and social work", 8531, "Social work activities with accommodation", -253.4709, -186.2734
+ 14, "Health and social work", 8532, "Social work activities without accommodation", -268.6396, -144.4487
+ 15, "Other community, social and personal service activities", 9001, "Collection and treatment of sewage", 230.7918, 29.8343
+ 15, "Other community, social and personal service activities", 9002, "Collection and treatment of other waste", 237.8787, -7.3061
+ 15, "Other community, social and personal service activities", 9003, "Sanitation, remediation and similar activities", 147.2616, -12.6416
+ 15, "Other community, social and personal service activities", 9111, "Activities of business and employers' organizations", -289.3434, -48.7144
+ 15, "Other community, social and personal service activities", 9112, "Activities of professional organizations", -289.5775, -36.5579
+ 15, "Other community, social and personal service activities", 9120, "Activities of trade unions", -318.8579, -43.6151
+ 15, "Other community, social and personal service activities", 9131, "Activities of religious organizations", -310.2353, -187.4527
+ 15, "Other community, social and personal service activities", 9132, "Activities of political organizations", -351.0029, -37.5016
+ 15, "Other community, social and personal service activities", 9133, "Activities of other membership organizations n.e.c.", -278.3265, -124.7107
+ 15, "Other community, social and personal service activities", 9211, "Motion picture and video production", -268.3088, -107.0238
+ 15, "Other community, social and personal service activities", 9212, "Motion picture and video distribution", -343.8415, -133.4339
+ 15, "Other community, social and personal service activities", 9213, "Motion picture projection", -172.3527, -209.6742
+ 15, "Other community, social and personal service activities", 9220, "Radio and television activities", -313.7618, -76.8317
+ 15, "Other community, social and personal service activities", 9231, "Artistic and literary creation and interpretation", -285.2248, -113.2828
+ 15, "Other community, social and personal service activities", 9232, "Operation of arts facilities", -300.0018, -144.2567
+ 15, "Other community, social and personal service activities", 9233, "Fair and amusement park activities", -160.7404, -196.1033
+ 15, "Other community, social and personal service activities", 9234, "Other entertainment activities n.e.c.", -242.4696, -162.1365
+ 15, "Other community, social and personal service activities", 9240, "News agency activities", -286.9132, -7.9617
+ 15, "Other community, social and personal service activities", 9251, "Library and archives activities", -334.1505, -108.1358
+ 15, "Other community, social and personal service activities", 9252, "Museums activities and preservation of historical sites and buildings", -240.0313, -135.6849
+ 15, "Other community, social and personal service activities", 9253, "Botanical and zoological gardens and nature reserves activities", -223.1513, -202.9955
+ 15, "Other community, social and personal service activities", 9261, "Operation of sports arenas and stadiums", -89.5660, -238.9317
+ 15, "Other community, social and personal service activities", 9262, "Other sporting activities", 91.1499, -122.5354
+ 15, "Other community, social and personal service activities", 9271, "Gambling and betting activities", -188.4280, -73.1509
+ 15, "Other community, social and personal service activities", 9272, "Other recreational activities n.e.c.", -92.1933, -217.2370
+ 15, "Other community, social and personal service activities", 9301, "Washing and dry-cleaning of textile and fur products", -44.1417, -232.7513
+ 15, "Other community, social and personal service activities", 9302, "Hairdressing and other beauty treatment", -128.4054, -207.8008
+ 15, "Other community, social and personal service activities", 9303, "Funeral and related activities", -136.1068, 12.1173
+ 15, "Other community, social and personal service activities", 9304, "Physical well-being activities", -73.2132, -220.2012
+ 15, "Other community, social and personal service activities", 9305, "Other service activities n.e.c.", -101.8629, -143.7231
+ 16, "Activities of households", 9500, "Activities of households as employers of domestic staff", -209.5059, -108.5503
+ 16, "Activities of households", 9600, "Undifferentiated goods producing activities of private households for own use", NaN, NaN
+ 16, "Activities of households", 9700, "Undifferentiated services producing activities of private households for own use", NaN, NaN
+ 17, "Extra-territorial organizations and bodies", 9900, "Extra-territorial organizations and bodies", -253.0645, -215.4438
