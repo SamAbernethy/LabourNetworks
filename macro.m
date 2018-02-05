@@ -10,9 +10,9 @@ clear all; clc; close all;
 
 %plotacdf(germanynodes, 'Germany')
 %plotacdf(irelandnodes, 'Ireland')
-scatterdegree(germanynodes, 'Germany')
-scatterdegree(irelandnodes, 'Ireland')
-%probabilityvsvariable(germanynodes, 2, 20, 'Germany')
-%probabilityvsvariable(irelandnodes, 2, 20, 'Ireland')
+%scatterdegree(germanynodes, 'Germany')
+%scatterdegree(irelandnodes, 'Ireland')
+probabilityvsvariable(germanynodes, 2, 20, 'Germany')
+probabilityvsvariable(irelandnodes, 2, 20, 'Ireland')
 %comparenodedegree(germanynodes, irelandnodes)
 %comparenodestrength(germanynodes, irelandnodes)
